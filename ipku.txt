@@ -1,13 +1,5 @@
 104.20.18.15:Clash.DNS防泄漏
 172.67.71.63:✈️永久有效✈️
-104.20.29.221:Unicom route
-172.67.76.50:Unicom route
-172.67.71.20:Unicom route
-172.67.67.216:Unicom route
-104.20.30.25:Unicom route
-104.20.18.136:Unicom route
-172.67.79.233:Unicom route
-104.20.21.108:Unicom route
 154.92.9.18:邪剑仙
 154.92.9.64:邪剑仙
 154.92.9.92:邪剑仙
