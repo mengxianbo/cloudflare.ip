@@ -11,6 +11,10 @@ hk2.jianxian.dynv6.net#Hongkong②
 27.50.48.76:443#Hongkong
 27.50.48.35:443#Hongkong
 27.50.49.29:443#Hongkong
+27.50.48.106#Hongkong
+27.50.48.8#Hongkong
+27.50.48.73#Hongkong
+27.50.48.5#Hongkong
 46.8.199.149#Hongkong
 46.8.199.42#Hongkong
 46.8.199.129#Hongkong
@@ -21,10 +25,6 @@ hk2.jianxian.dynv6.net#Hongkong②
 94.103.4.159#Hongkong
 94.103.4.230#Hongkong
 45.78.29.101#Hongkong
-27.50.48.106#Hongkong
-27.50.48.8#Hongkong
-27.50.48.73#Hongkong
-27.50.48.5#Hongkong
 154.211.8.13:443#Hongkong
 154.211.8.222:443#Hongkong
 154.211.8.49:443#Hongkong
