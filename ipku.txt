@@ -25,7 +25,7 @@ hk2.jianxian.dynv6.net#Hongkong②
 27.50.48.76:443#Hongkong**
 27.50.48.35:443#Hongkong**
 27.50.49.29:443#Hongkong**
-27.50.48.106#Hongkong
+27.50.48.106#Hongkong**
 27.50.48.8#Hongkong**
 27.50.48.73#Hongkong**
 27.50.48.5#Hongkong**
