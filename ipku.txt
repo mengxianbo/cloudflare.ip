@@ -3,7 +3,6 @@
 yw.jianxian.dynv6.net:443#Google
 cloud.jianxian.dynv6.net:443#Facebook
 uk.jianxian.dynv6.net:443#Youtube
-baijan.jianxian.dynv6.net:443#instagram
 hk1.jianxian.dynv6.net#Hongkong①
 hk2.jianxian.dynv6.net#Hongkong②
 27.50.49.38:443#Hongkong
