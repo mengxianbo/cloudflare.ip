@@ -3,6 +3,8 @@
 yw.jianxian.dynv6.net:443#Google
 38.60.208.252:443#TR-kaopucloud
 uk.jianxian.dynv6.net:443#Youtube
+104.243.26.90:LosAngeles
+104.243.26.34:LosAngeles
 hk1.jianxian.dynv6.net#Hongkong①
 hk2.jianxian.dynv6.net#Hongkong②
 94.103.4.159#Hongkong③
