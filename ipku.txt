@@ -1,7 +1,6 @@
 104.20.18.15:Clash.DNS防泄漏
 172.67.71.63:✈️永久有效✈️
 yw.jianxian.dynv6.net:443#Google
-38.60.208.252:443#TR-kaopucloud
 uk.jianxian.dynv6.net:443#Youtube
 104.243.26.90:LosAngeles
 104.243.26.34:LosAngeles
