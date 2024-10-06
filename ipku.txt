@@ -100,6 +100,16 @@ hk2.jianxian.dynv6.net#Hongkong②
 206.238.237.93:Senlima
 206.238.237.7:Senlima
 206.238.236.75:Senlima
+212.183.88.159:Austria
+212.183.88.52:Austria
+212.183.88.127:Austria
+212.183.88.121:Austria
+212.183.88.185:Austria
+212.183.88.81:Austria
+212.183.88.229:Austria
+212.183.88.221:Austria
+212.183.88.75:Austria
+212.183.88.58:Austria
 104.129.166.231:443#SaltLakeCity
 104.129.164.82:443#SaltLakeCity
 104.129.166.36:443#SaltLakeCity
