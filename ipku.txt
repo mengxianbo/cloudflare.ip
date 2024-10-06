@@ -110,6 +110,16 @@ hk2.jianxian.dynv6.net#Hongkong②
 104.129.165.26:443#SaltLakeCity
 104.129.165.243:443#SaltLakeCity
 104.129.164.124:443#SaltLakeCity
+104.36.195.224:443#SanFrancisco
+104.36.195.220:443#SanFrancisco
+104.36.195.249:443#SanFrancisco
+104.36.195.17:443#SanFrancisco
+104.36.195.3:443#SanFrancisco
+104.36.195.192:443#SanFrancisco
+104.36.195.126:443#SanFrancisco
+104.36.195.40:443#SanFrancisco
+104.36.195.240:443#SanFrancisco
+104.36.195.101:443#SanFrancisco
 31.12.75.83:UK.Senlima
 31.12.75.235:UK.Senlima
 31.12.75.89:UK.Senlima
