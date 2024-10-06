@@ -100,6 +100,16 @@ hk2.jianxian.dynv6.net#Hongkong②
 206.238.237.93:Senlima
 206.238.237.7:Senlima
 206.238.236.75:Senlima
+104.129.166.231:443#SaltLakeCity
+104.129.164.82:443#SaltLakeCity
+104.129.166.36:443#SaltLakeCity
+104.129.165.169:443#SaltLakeCity
+104.129.165.128:443#SaltLakeCity
+104.129.165.106:443#SaltLakeCity
+104.129.165.53:443#SaltLakeCity
+104.129.165.26:443#SaltLakeCity
+104.129.165.243:443#SaltLakeCity
+104.129.164.124:443#SaltLakeCity
 31.12.75.83:UK.Senlima
 31.12.75.235:UK.Senlima
 31.12.75.89:UK.Senlima
