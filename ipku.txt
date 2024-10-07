@@ -2,8 +2,6 @@
 172.67.71.63:✈️永久有效✈️
 yw.jianxian.dynv6.net:443#Google
 uk.jianxian.dynv6.net:443#Youtube
-104.243.26.90:LosAngeles
-104.243.26.34:LosAngeles
 hk1.jianxian.dynv6.net#Hongkong①
 hk2.jianxian.dynv6.net#Hongkong②
 94.103.4.159#Hongkong③
@@ -48,6 +46,7 @@ hk2.jianxian.dynv6.net#Hongkong②
 154.211.8.144:443#Hongkong***
 154.211.8.21:443#Hongkong***
 154.211.8.189:443#Hongkong***
+154.211.8.135:443#Hongkong***
 45.142.120.133:443#Russia
 45.142.120.232:443#Russia
 45.142.120.246:443#Russia
@@ -87,6 +86,11 @@ hk2.jianxian.dynv6.net#Hongkong②
 104.129.166.36:443#SaltLakeCity
 104.129.165.169:443#SaltLakeCity
 104.129.165.128:443#SaltLakeCity
+104.243.26.90:LosAngeles
+104.243.26.34:LosAngeles
+104.243.20.153:LosAngeles
+104.243.21.121:LosAngeles
+104.243.31.36:LosAngeles
 104.36.195.224:443#SanFrancisco
 104.36.195.220:443#SanFrancisco
 104.36.195.249:443#SanFrancisco
