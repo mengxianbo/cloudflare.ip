@@ -2,8 +2,8 @@
 172.67.71.63:✈️永久有效✈️
 yw.jianxian.dynv6.net:443#Google
 uk.jianxian.dynv6.net:443#Youtube
-45.77.131.24:443#JapanExpressway
-45.77.130.245:443#JapanExpressway
+45.77.131.24:443#Japan.Choopa
+45.77.130.245:443#Japan.Choopa
 hk1.jianxian.dynv6.net#Hongkong①
 hk2.jianxian.dynv6.net#Hongkong②
 35.194.154.249#Taiwan①
