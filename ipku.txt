@@ -60,7 +60,6 @@ kr2.jianxian.dynv6.net#SouthKorea②
 154.211.8.144:443#Hongkong***
 154.211.8.21:443#Hongkong***
 154.211.8.189:443#Hongkong***
-154.211.8.135:443#Hongkong***
 45.142.120.133:443#Russia
 45.142.120.232:443#Russia
 45.142.120.246:443#Russia
