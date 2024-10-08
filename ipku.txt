@@ -1,5 +1,9 @@
 104.20.18.15:Clash.DNS防泄漏
 172.67.71.63:✈️永久有效✈️
+108.162.195.20:443#Cloudflare
+108.162.194.240:443#Cloudflare
+108.162.193.32:443#Cloudflare
+108.162.192.232:443#Cloudflare
 yw.jianxian.dynv6.net:443#Google
 uk.jianxian.dynv6.net:443#Youtube
 45.77.131.24:443#Japan.Choopa
