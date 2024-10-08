@@ -2,7 +2,6 @@
 172.67.71.63:✈️永久有效✈️
 cf.cf.090227.xyz:443#Cloudflare
 cloudflare.182682.xyz:443#Cloudflare
-cloudfront.182682.xyz:443#Cloudflare
 cf.cf.cname.vvhan.com:443#Cloudflare
 stock.hostmonit.com:443#Cloudflare
 ipdb.030101.xyz:443#Cloudflare
