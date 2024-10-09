@@ -2,6 +2,13 @@
 45.142.120.219:✈️永久有效✈️
 yw.jianxian.dynv6.net:443#Google
 uk.jianxian.dynv6.net:443#Youtube
+94.103.4.159#HKG①
+94.103.4.230#HKG②
+94.103.5.114#HKG③
+94.103.5.46#HKG④
+45.78.29.101#HKG⑤
+45.78.21.252#HKG⑥
+45.78.31.62#HKG⑦
 45.77.131.24:443#Japan.Choopa
 45.77.130.245:443#Japan.Choopa
 hk1.jianxian.dynv6.net#Hongkong①
@@ -20,13 +27,6 @@ kr2.jianxian.dynv6.net#SouthKorea②
 155.254.60.86:443#Malaysia②
 74.120.172.114:443#Bricklayer①
 172.93.44.36:2443#Bricklayer②
-94.103.4.159#HKG①
-94.103.4.230#HKG②
-94.103.5.114#HKG③
-94.103.5.46#HKG④
-45.78.29.101#HKG⑤
-45.78.21.252#HKG⑥
-45.78.31.62#HKG⑦
 156.240.243.23:10443#Hongkong
 156.240.244.9:10443#Hongkong
 156.240.242.9:10443#Hongkong
