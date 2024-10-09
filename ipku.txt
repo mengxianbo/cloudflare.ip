@@ -76,11 +76,11 @@ kr2.jianxian.dynv6.net#SouthKorea②
 204.93.210.27:Anycast
 204.93.210.96:Anycast
 204.93.210.15:Anycast
-154.92.9.240:Senlima
-154.92.9.72:Senlima
-154.92.9.153:Senlima
-154.92.9.91:Senlima
-154.92.9.251:Senlima
+154.92.9.241:Senlima
+154.92.9.131:Senlima
+154.92.9.197:Senlima
+154.92.9.39:Senlima
+154.92.9.216:Senlima
 204.93.210.28:Servercentral
 204.93.210.63:Servercentral
 204.93.210.108:Servercentral
