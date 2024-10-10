@@ -127,3 +127,8 @@ kr2.jianxian.dynv6.net#SouthKorea②
 5.10.245.238:Azerbaijan
 5.10.245.70:Azerbaijan
 5.10.245.136:Azerbaijan
+2606:4700::18ea:3580:d17:5d36:ipv6
+2606:4700:e4:4c0:78f4:8f61:1e8:c328:ipv6
+2606:4700::18ea:3580:e3cf:249d:ipv6
+2606:4700:0:c8:9d67:7b73:91c4:9c11:ipv6
+2606:4700:0:c8:9d67:2773:95e0:610:ipv6
