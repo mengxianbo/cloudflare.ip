@@ -1,7 +1,7 @@
 46.8.199.195:Clash.DNS防泄漏
 45.142.120.219:✈️永久有效✈️
-yw.jianxian.dynv6.net:443#Google
-uk.jianxian.dynv6.net:443#Youtube
+64.69.24.26:443#Google
+23.227.39.67:443#Youtube
 94.103.4.159#HKG①
 94.103.4.230#HKG②
 94.103.5.114#HKG③
@@ -13,12 +13,12 @@ uk.jianxian.dynv6.net:443#Youtube
 45.78.21.248#HKG⑨
 45.77.131.24:443#Japan.Choopa
 45.77.130.245:443#Japan.Choopa
-hk1.jianxian.dynv6.net#Hongkong①
-hk2.jianxian.dynv6.net#Hongkong②
+47.76.83.226#Hongkong①
+47.76.50.48#Hongkong②
 35.194.154.249#Taiwan①
 104.199.197.72#Taiwan②
-kr1.jianxian.dynv6.net#SouthKorea①
-kr2.jianxian.dynv6.net#SouthKorea②
+130.162.132.157#SouthKorea①
+146.56.183.102#SouthKorea②
 13.115.140.243#Japan①
 18.181.35.42#Japan②
 3.1.18.15#Singapore①
