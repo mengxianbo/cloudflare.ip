@@ -20,10 +20,10 @@
 104.199.197.72#Taiwan②
 130.162.132.157#SouthKorea①
 146.56.183.102#SouthKorea②
-13.115.140.243#Japan①
-18.181.35.42#Japan②
-3.1.18.15#Singapore①
-18.143.76.130#Singapore②
+13.230.198.107#Japan①
+23.106.130.6#Japan②
+38.181.70.15#Singapore①
+51.79.157.12#Singapore②
 103.114.200.29:443#Thailand①
 45.144.167.8:443#Thailand②
 45.195.76.132:443#Malaysia①
