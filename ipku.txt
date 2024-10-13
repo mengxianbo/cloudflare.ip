@@ -15,6 +15,9 @@
 94.103.5.114#HKG
 45.78.29.101#HKG
 94.103.4.230#HKG
+65.49.237.75:443#Japan.Choopa
+65.49.233.216:443#Japan.Choopa
+65.49.234.197:443#Japan.Choopa
 45.77.131.24:443#Japan.Choopa
 45.77.130.245:443#Japan.Choopa
 47.76.83.226#Hongkong①
