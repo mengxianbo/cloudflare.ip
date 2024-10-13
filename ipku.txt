@@ -98,14 +98,9 @@
 206.238.237.130:Tcloudnet
 206.238.237.107:Tcloudnet
 206.238.237.193:Tcloudnet
-212.183.88.195:Austria
-212.183.88.250:Austria
-212.183.88.53:Austria
-212.183.88.238:Austria
 104.129.166.231:443#SaltLakeCity
 104.129.164.82:443#SaltLakeCity
 104.129.166.36:443#SaltLakeCity
-104.129.165.169:443#SaltLakeCity
 104.129.165.128:443#SaltLakeCity
 104.243.31.81:LosAngeles
 104.243.29.3:LosAngeles
@@ -115,7 +110,6 @@
 64.69.24.31:California
 104.36.195.220:443#SanFrancisco
 104.36.195.249:443#SanFrancisco
-104.36.195.17:443#SanFrancisco
 104.36.195.3:443#SanFrancisco
 31.12.75.223:UK.Senlima
 31.12.75.189:UK.Senlima
