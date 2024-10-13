@@ -59,16 +59,12 @@
 27.50.49.167:443#Hongkong*
 27.50.49.173:443#Hongkong*
 27.50.49.76:443#Hongkong*
-27.50.49.107:443#Hongkong*
 27.50.49.79:443#Hongkong*
 27.50.49.8:443#Hongkong*
 27.50.49.11:443#Hongkong*
 46.8.199.174#Hongkong**
-46.8.199.131#Hongkong**
 46.8.199.204#Hongkong**
 46.8.199.150#Hongkong**
-46.8.199.184#Hongkong**
-46.8.199.145#Hongkong**
 46.8.199.163#Hongkong**
 46.8.199.166#Hongkong**
 46.8.199.100#Hongkong**
